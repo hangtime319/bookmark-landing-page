@@ -1522,6 +1522,10 @@ video {
     margin-top: 0.5rem;
   }
 
+  .max-sm\:hidden {
+    display: none;
+  }
+
   .max-sm\:h-52 {
     height: 13rem;
   }
